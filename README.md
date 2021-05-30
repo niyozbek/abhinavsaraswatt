@@ -1,8 +1,15 @@
-### Hi there 👋
+<h1 align="center">
+  Hi 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  , I'm Abhinav Saraswat
+</h1>
 
-- 🌱 I’m currently learning JavaScript
-- 💬 Ask me about Python, Django, HTML & CSS
-- 📫 How to reach me: abhinavsaraswat2411@gmail.com
+<div align="center">
+<br>
+🌱 I’m currently learning <b>JavaScript</b><br>
+💬 Ask me about <b>Python, Django, HTML & CSS</b><br>
+📫 How to reach me: <b>abhinavsaraswat2411@gmail.com</b><br><br>
+</div>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
