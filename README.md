@@ -9,15 +9,20 @@
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" /> 
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="100" /> 
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="100" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="100" />  
 
 </div></td><td valign="top" width="33%">
 
+### Programming Language  
+<div align="center">  
+<img src="https://img.icons8.com/color/100/000000/python.png"/>  
+</div></td><td valign="top" width="33%">
+  
 ### Backend  
 <div align="center">  
-<img src="https://img.icons8.com/ios/100/000000/django.png"/> 
+<img src="https://img.icons8.com/ios/200/000000/django.png"/> 
 </div></td></tr></table>
 
 ## Connect with me
