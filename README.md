@@ -34,11 +34,14 @@
 
 ## Connect with me
 <p align="center">
-  <a href="https://github.com/abhinavsaraswatt?tab=followers">
+  <a href="https://github.com/abhinavsaraswatt">
     <img src="https://img.shields.io/github/followers/abhinavsaraswatt?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/abhisaraswatt">
     <img src="https://img.shields.io/twitter/follow/abhisaraswatt?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhinav-saraswat-461b8b1b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-%23808080?style=for-the-badge&logo=linkedin" alt="GitHub badge" />
   </a>
 </p>
 
@@ -50,5 +53,5 @@
 </p>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=abhinavsaraswatt&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=abhinavsaraswatt&&style=flat-square" align="center" height='25px' />
 </div>  
